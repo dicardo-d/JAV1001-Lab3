@@ -1,3 +1,6 @@
+// A0254753 Divya Vasudev Khemani
+// A00252915 Gupreet Kaur Sidhu
+
 public class Dice {
     private int sideup;
     private int sides;
